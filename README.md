@@ -22,7 +22,7 @@
 
 ## Usage
 
-Access the URL ```localhost:3333/<pokemon_name>``` with the pokémon name.
+Access the URL ```localhost:3333/<pokemon_name>``` inserting the pokémon name.
 
 Example:
   
